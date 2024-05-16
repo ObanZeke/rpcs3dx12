@@ -1,3 +1,7 @@
+This is a fork in which I'll attempt to implement DX12 to the emulator.
+
+Original description below.
+
 RPCS3
 =====
 
